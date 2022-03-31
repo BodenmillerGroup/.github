@@ -11,8 +11,7 @@ The following tools have been developed by the lab to perform IMC data analysis:
 
 * [steinbock](https://github.com/BodenmillerGroup/steinbock) for containerized IMC data processing and segmentation.  
 * [readimc](https://github.com/BodenmillerGroup/readimc) for reading raw IMC data.  
-* [ImcSegmentationPipeline](https://github.com/BodenmillerGroup/ImcSegmentationPipeline) for interactive IMC data processing and segmentation.  
-* [imctools](https://github.com/BodenmillerGroup/imctools) as python package for the IMC segmentation pipeline.  
+* [ImcSegmentationPipeline](https://github.com/BodenmillerGroup/ImcSegmentationPipeline) for interactive IMC data processing and segmentation.   
 * [napari-imc](https://github.com/BodenmillerGroup/napari-imc) for interactive visualization of IMC raw data in [napari](https://napari.org/).  
 * [cytomapper](https://github.com/BodenmillerGroup/cytomapper) for IMC data visaulization in R.  
 * [imcRtools](https://github.com/BodenmillerGroup/imcRtools) for single-cell and spatial analysis in R.  
