@@ -4,7 +4,7 @@ This organization serves the purpose to collect analysis and software repositori
 
 ### Multiplexed image analysis
 
-General instructions on how to analyse imaging mass cytometry (IMC) data can be found in the [IMC data analysis workflow](https://bodenmillergroup.github.io/IMCWorkflow/).
+General instructions on how to analyse imaging mass cytometry (IMC) data can be found in the [IMC data analysis workflow](https://github.com/BodenmillerGroup/IMCDataAnalysis).
 For general discussions and questions relating to IMC data analysis, please raise an issue [here](https://github.com/BodenmillerGroup/IMCWorkflow/issues/new?assignees=nilseling&labels=Question&template=question_template.md&title=).
 
 The following tools have been developed by the lab to perform multiplexed image analysis:
